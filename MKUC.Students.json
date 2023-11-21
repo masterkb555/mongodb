@@ -1,0 +1,540 @@
+[{
+  "_id": {
+    "$oid": "64de3315c742ab5ddb700741"
+  },
+  "name": "student 1",
+  "age": 19,
+  "dob": {
+    "$date": "2004-08-27T00:00:00.000Z"
+  },
+  "class": "MCA",
+  "year": 1,
+  "marksmains": [
+    100,
+    99
+  ],
+  "markssubs": [
+    100,
+    100,
+    99
+  ],
+  "tags": [
+    "Maths",
+    "CS"
+  ],
+  "createddate": "Thu Aug 17 2023 20:17:49 GMT+0530 (India Standard Time)",
+  "grade": "F"
+},
+{
+  "_id": {
+    "$oid": "64de3315c742ab5ddb700742"
+  },
+  "name": "student 2",
+  "age": 19,
+  "dob": {
+    "$date": "2004-08-24T00:00:00.000Z"
+  },
+  "class": "MCA",
+  "year": 1,
+  "marksmains": [
+    100,
+    100
+  ],
+  "markssubs": [
+    100,
+    100,
+    50
+  ],
+  "tags": [
+    "Maths",
+    "CS"
+  ],
+  "createddate": "Thu Aug 17 2023 20:17:49 GMT+0530 (India Standard Time)",
+  "grade": "F"
+},
+{
+  "_id": {
+    "$oid": "64de3315c742ab5ddb700743"
+  },
+  "name": "student 3",
+  "age": 19,
+  "dob": {
+    "$date": "2004-09-29T00:00:00.000Z"
+  },
+  "class": "MCA",
+  "year": 1,
+  "marksmains": [
+    100,
+    89
+  ],
+  "markssubs": [
+    100,
+    100,
+    78
+  ],
+  "tags": [
+    "Commerce",
+    "CS"
+  ],
+  "createddate": "Thu Aug 17 2023 20:17:49 GMT+0530 (India Standard Time)",
+  "grade": "F"
+},
+{
+  "_id": {
+    "$oid": "64de3315c742ab5ddb700744"
+  },
+  "name": "student 4",
+  "age": 19,
+  "dob": {
+    "$date": "2004-09-18T00:00:00.000Z"
+  },
+  "class": "MCA",
+  "year": 1,
+  "marksmains": [
+    100,
+    50
+  ],
+  "markssubs": [
+    100,
+    100,
+    90
+  ],
+  "tags": [
+    "Commerce",
+    "CS"
+  ],
+  "createddate": "Thu Aug 17 2023 20:17:49 GMT+0530 (India Standard Time)",
+  "grade": "F"
+},
+{
+  "_id": {
+    "$oid": "64de3315c742ab5ddb700745"
+  },
+  "name": "student 5",
+  "age": 19,
+  "dob": {
+    "$date": "2004-10-01T00:00:00.000Z"
+  },
+  "class": "MCA",
+  "year": 1,
+  "marksmains": [
+    100,
+    90
+  ],
+  "markssubs": [
+    100,
+    100,
+    90
+  ],
+  "tags": [
+    "BMaths",
+    "CS"
+  ],
+  "createddate": "Thu Aug 17 2023 20:17:49 GMT+0530 (India Standard Time)",
+  "grade": "F"
+},
+{
+  "_id": {
+    "$oid": "64de3315c742ab5ddb700746"
+  },
+  "name": "student 6",
+  "age": 20,
+  "dob": {
+    "$date": "2003-08-27T00:00:00.000Z"
+  },
+  "class": "MCA",
+  "year": 2,
+  "marksmains": [
+    100,
+    98
+  ],
+  "markssubs": [
+    100,
+    100,
+    89
+  ],
+  "tags": [
+    "BMaths",
+    "CS"
+  ],
+  "createddate": "Thu Aug 17 2023 20:17:49 GMT+0530 (India Standard Time)",
+  "grade": "F"
+},
+{
+  "_id": {
+    "$oid": "64de3315c742ab5ddb700747"
+  },
+  "name": "student 7",
+  "age": 20,
+  "dob": {
+    "$date": "2003-08-24T00:00:00.000Z"
+  },
+  "class": "MCA",
+  "year": 2,
+  "marksmains": [
+    60,
+    57
+  ],
+  "markssubs": [
+    80,
+    60,
+    64
+  ],
+  "tags": [
+    "Commerce",
+    "CS"
+  ],
+  "createddate": "Thu Aug 17 2023 20:17:49 GMT+0530 (India Standard Time)",
+  "grade": "F"
+},
+{
+  "_id": {
+    "$oid": "64de3315c742ab5ddb700748"
+  },
+  "name": "student 8",
+  "age": 20,
+  "dob": {
+    "$date": "2003-09-29T00:00:00.000Z"
+  },
+  "class": "MCA",
+  "year": 2,
+  "marksmains": [
+    100,
+    76
+  ],
+  "markssubs": [
+    100,
+    100,
+    56
+  ],
+  "tags": [
+    "Maths",
+    "CS"
+  ],
+  "createddate": "Thu Aug 17 2023 20:17:49 GMT+0530 (India Standard Time)",
+  "grade": "F"
+},
+{
+  "_id": {
+    "$oid": "64de3315c742ab5ddb700749"
+  },
+  "name": "student 9",
+  "age": 20,
+  "dob": {
+    "$date": "2003-09-18T00:00:00.000Z"
+  },
+  "class": "MCA",
+  "year": 2,
+  "marksmains": [
+    80,
+    54
+  ],
+  "markssubs": [
+    100,
+    100,
+    89
+  ],
+  "tags": [
+    "BMaths",
+    "CS"
+  ],
+  "createddate": "Thu Aug 17 2023 20:17:49 GMT+0530 (India Standard Time)",
+  "grade": "F"
+},
+{
+  "_id": {
+    "$oid": "64de3315c742ab5ddb70074a"
+  },
+  "name": "student 10",
+  "age": 20,
+  "dob": {
+    "$date": "2003-10-01T00:00:00.000Z"
+  },
+  "class": "MCA",
+  "year": 2,
+  "marksmains": [
+    60,
+    63
+  ],
+  "markssubs": [
+    100,
+    100,
+    98
+  ],
+  "tags": [
+    "Commerce",
+    "CS"
+  ],
+  "createddate": "Thu Aug 17 2023 20:17:49 GMT+0530 (India Standard Time)",
+  "grade": "F"
+},
+{
+  "_id": {
+    "$oid": "64de3336b6bd155fa9143be8"
+  },
+  "name": "student 1",
+  "age": 19,
+  "dob": {
+    "$date": "2004-08-27T00:00:00.000Z"
+  },
+  "class": "MCA",
+  "year": 1,
+  "marksmains": [
+    100,
+    99
+  ],
+  "markssubs": [
+    100,
+    100,
+    99
+  ],
+  "tags": [
+    "Maths",
+    "CS"
+  ],
+  "createddate": "Thu Aug 17 2023 20:18:22 GMT+0530 (India Standard Time)",
+  "grade": "F"
+},
+{
+  "_id": {
+    "$oid": "64de3336b6bd155fa9143be9"
+  },
+  "name": "student 2",
+  "age": 19,
+  "dob": {
+    "$date": "2004-08-24T00:00:00.000Z"
+  },
+  "class": "MCA",
+  "year": 1,
+  "marksmains": [
+    100,
+    100
+  ],
+  "markssubs": [
+    100,
+    100,
+    50
+  ],
+  "tags": [
+    "Maths",
+    "CS"
+  ],
+  "createddate": "Thu Aug 17 2023 20:18:22 GMT+0530 (India Standard Time)",
+  "grade": "F"
+},
+{
+  "_id": {
+    "$oid": "64de3336b6bd155fa9143bea"
+  },
+  "name": "student 3",
+  "age": 19,
+  "dob": {
+    "$date": "2004-09-29T00:00:00.000Z"
+  },
+  "class": "MCA",
+  "year": 1,
+  "marksmains": [
+    100,
+    89
+  ],
+  "markssubs": [
+    100,
+    100,
+    78
+  ],
+  "tags": [
+    "Commerce",
+    "CS"
+  ],
+  "createddate": "Thu Aug 17 2023 20:18:22 GMT+0530 (India Standard Time)",
+  "grade": "F"
+},
+{
+  "_id": {
+    "$oid": "64de3336b6bd155fa9143beb"
+  },
+  "name": "student 4",
+  "age": 19,
+  "dob": {
+    "$date": "2004-09-18T00:00:00.000Z"
+  },
+  "class": "MCA",
+  "year": 1,
+  "marksmains": [
+    100,
+    50
+  ],
+  "markssubs": [
+    100,
+    100,
+    90
+  ],
+  "tags": [
+    "Commerce",
+    "CS"
+  ],
+  "createddate": "Thu Aug 17 2023 20:18:22 GMT+0530 (India Standard Time)",
+  "grade": "F"
+},
+{
+  "_id": {
+    "$oid": "64de3336b6bd155fa9143bec"
+  },
+  "name": "student 5",
+  "age": 19,
+  "dob": {
+    "$date": "2004-10-01T00:00:00.000Z"
+  },
+  "class": "MCA",
+  "year": 1,
+  "marksmains": [
+    100,
+    90
+  ],
+  "markssubs": [
+    100,
+    100,
+    90
+  ],
+  "tags": [
+    "BMaths",
+    "CS"
+  ],
+  "createddate": "Thu Aug 17 2023 20:18:22 GMT+0530 (India Standard Time)",
+  "grade": "F"
+},
+{
+  "_id": {
+    "$oid": "64de3336b6bd155fa9143bed"
+  },
+  "name": "student 6",
+  "age": 20,
+  "dob": {
+    "$date": "2003-08-27T00:00:00.000Z"
+  },
+  "class": "MCA",
+  "year": 2,
+  "marksmains": [
+    100,
+    98
+  ],
+  "markssubs": [
+    100,
+    100,
+    89
+  ],
+  "tags": [
+    "BMaths",
+    "CS"
+  ],
+  "createddate": "Thu Aug 17 2023 20:18:22 GMT+0530 (India Standard Time)",
+  "grade": "F"
+},
+{
+  "_id": {
+    "$oid": "64de3336b6bd155fa9143bee"
+  },
+  "name": "student 7",
+  "age": 20,
+  "dob": {
+    "$date": "2003-08-24T00:00:00.000Z"
+  },
+  "class": "MCA",
+  "year": 2,
+  "marksmains": [
+    60,
+    57
+  ],
+  "markssubs": [
+    80,
+    60,
+    64
+  ],
+  "tags": [
+    "Commerce",
+    "CS"
+  ],
+  "createddate": "Thu Aug 17 2023 20:18:22 GMT+0530 (India Standard Time)",
+  "grade": "F"
+},
+{
+  "_id": {
+    "$oid": "64de3336b6bd155fa9143bef"
+  },
+  "name": "student 8",
+  "age": 20,
+  "dob": {
+    "$date": "2003-09-29T00:00:00.000Z"
+  },
+  "class": "MCA",
+  "year": 2,
+  "marksmains": [
+    100,
+    76
+  ],
+  "markssubs": [
+    100,
+    100,
+    56
+  ],
+  "tags": [
+    "Maths",
+    "CS"
+  ],
+  "createddate": "Thu Aug 17 2023 20:18:22 GMT+0530 (India Standard Time)",
+  "grade": "F"
+},
+{
+  "_id": {
+    "$oid": "64de3336b6bd155fa9143bf0"
+  },
+  "name": "student 9",
+  "age": 20,
+  "dob": {
+    "$date": "2003-09-18T00:00:00.000Z"
+  },
+  "class": "MCA",
+  "year": 2,
+  "marksmains": [
+    80,
+    54
+  ],
+  "markssubs": [
+    100,
+    100,
+    89
+  ],
+  "tags": [
+    "BMaths",
+    "CS"
+  ],
+  "createddate": "Thu Aug 17 2023 20:18:22 GMT+0530 (India Standard Time)",
+  "grade": "F"
+},
+{
+  "_id": {
+    "$oid": "64de3336b6bd155fa9143bf1"
+  },
+  "name": "student 10",
+  "age": 20,
+  "dob": {
+    "$date": "2003-10-01T00:00:00.000Z"
+  },
+  "class": "MCA",
+  "year": 2,
+  "marksmains": [
+    60,
+    63
+  ],
+  "markssubs": [
+    100,
+    100,
+    98
+  ],
+  "tags": [
+    "Commerce",
+    "CS"
+  ],
+  "createddate": "Thu Aug 17 2023 20:18:22 GMT+0530 (India Standard Time)",
+  "grade": "F"
+}]
